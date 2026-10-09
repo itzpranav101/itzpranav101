@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300">
 <style>.d{font-family:'SF Mono','Fira Code',Menlo,Consolas,monospace;font-size:13px;fill:#5ff2b0}.t{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-weight:700;font-size:16px;fill:#fff}.s{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-size:13px;fill:#8fb2a4}
-.ln{stroke:#5ff2b0;stroke-width:3;stroke-linecap:round;stroke-dasharray:1100;stroke-dashoffset:1100;animation:dr 3s ease-out forwards}@keyframes dr{to{stroke-dashoffset:0}}
-.n{opacity:0;animation:fi .6s ease-out forwards}@keyframes fi{to{opacity:1}}
+.ln{stroke:#5ff2b0;stroke-width:3;stroke-linecap:round;animation:dr 3s ease-out backwards}@keyframes dr{from{stroke-dasharray:1100;stroke-dashoffset:1100}}
+.n{animation:fi .6s ease-out backwards}@keyframes fi{from{opacity:0}}
 .pl{transform-box:fill-box;transform-origin:center;animation:pp 2.4s ease-out infinite}@keyframes pp{from{transform:scale(1);opacity:.8}to{transform:scale(2.4);opacity:0}}</style>
 <line x1="60" y1="150" x2="1140" y2="150" stroke="#5ff2b0" stroke-opacity=".15" stroke-width="3"/><line class="ln" x1="60" y1="150" x2="1140" y2="150"/><g class="n" style="animation-delay:0.0s"><line x1="90.0" y1="150" x2="90.0" y2="105" stroke="#5ff2b0" stroke-opacity=".35"/>
 <circle cx="90.0" cy="150" r="9" fill="#07111c" stroke="#5ff2b0" stroke-width="3"/><circle class="pl" cx="90.0" cy="150" r="9" fill="none" stroke="#5ff2b0" style="animation-delay:0.0s"/>
