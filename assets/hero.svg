@@ -10,8 +10,8 @@
 .tr{fill:none;stroke:#5ff2b0;stroke-opacity:.18;stroke-width:2}
 .pk{fill:none;stroke:#5ff2b0;stroke-width:3;stroke-linecap:round;stroke-dasharray:14 600;animation:run 4s linear infinite;filter:drop-shadow(0 0 4px #5ff2b0)}
 @keyframes run{from{stroke-dashoffset:614}to{stroke-dashoffset:0}}
-.name{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-weight:800;font-size:68px;fill:url(#nm);animation:rise 1.2s ease-out both}
-.hi{font-family:'SF Mono','Fira Code',Menlo,Consolas,monospace;font-size:20px;fill:#5ff2b0;animation:rise 1s ease-out both}
+.name{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-weight:800;font-size:68px;fill:url(#nm);animation:rise 1.2s ease-out backwards}
+.hi{font-family:'SF Mono','Fira Code',Menlo,Consolas,monospace;font-size:20px;fill:#5ff2b0;animation:rise 1s ease-out backwards}
 .sub{font-family:'SF Mono','Fira Code',Menlo,Consolas,monospace;font-size:24px;fill:#cfe9de}
 .s0{animation:cyc 16s 0s infinite;opacity:0}.s1{animation:cyc 16s 4s infinite;opacity:0}.s2{animation:cyc 16s 8s infinite;opacity:0}.s3{animation:cyc 16s 12s infinite;opacity:0}
 @keyframes cyc{0%{opacity:0;transform:translateY(8px)}4%,22%{opacity:1;transform:none}26%,100%{opacity:0}}
