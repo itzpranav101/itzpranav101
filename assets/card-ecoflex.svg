@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 230" width="580" height="230">
-<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1824"/><stop offset="1" stop-color="#0d2a26"/></linearGradient>
-<linearGradient id="e" x1="0" x2="1"><stop offset="0" stop-color="#5ff2b0"/><stop offset="1" stop-color="#4aa8ff"/></linearGradient></defs>
-<style>
-.h{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-weight:700;font-size:26px;fill:#fff} .d{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-size:15px;fill:#a9c7bb} .t{font-family:'SF Mono','Fira Code',Menlo,Consolas,monospace;font-size:12px;fill:#bff7dc}
-.bd{fill:none;stroke:url(#e);stroke-width:2.5;stroke-dasharray:90 700;animation:l 5s linear infinite}
-@keyframes l{to{stroke-dashoffset:-1580}}
-.em{animation:f 3s ease-in-out infinite;transform-box:fill-box;transform-origin:center} @keyframes f{50%{transform:translateY(-5px) rotate(-6deg)}}
-.dot{animation:p 1.5s infinite} @keyframes p{50%{opacity:.2}}
-</style>
-<rect x="2" y="2" width="576" height="226" rx="20" fill="url(#b)" stroke="#5ff2b0" stroke-opacity=".18" stroke-width="2"/>
-<rect class="bd" x="2" y="2" width="576" height="226" rx="20" pathLength="1580" stroke-dasharray="120 1460"/>
-<text x="34" y="62" class="h">EcoFlex</text><text x="520" y="62" font-size="34" class="em">♻️</text>
-<circle class="dot" cx="470" cy="55" r="5" fill="#5ff2b0"/><text x="456" y="59" text-anchor="end" style="font-family:'SF Mono','Fira Code',Menlo,Consolas,monospace;font-size:12px;fill:#5ff2b0">active</text>
-<text x="34" y="108" class="d">Sustainability project built with web tech.</text><rect x="34" y="176" width="49.8" height="26" rx="13" fill="#5ff2b0" fill-opacity=".12" stroke="#5ff2b0" stroke-opacity=".4"/><text x="58.9" y="194" text-anchor="middle" class="t">CSS</text><rect x="93.8" y="176" width="49.8" height="26" rx="13" fill="#5ff2b0" fill-opacity=".12" stroke="#5ff2b0" stroke-opacity=".4"/><text x="118.69999999999999" y="194" text-anchor="middle" class="t">Web</text><rect x="153.6" y="176" width="49.8" height="26" rx="13" fill="#5ff2b0" fill-opacity=".12" stroke="#5ff2b0" stroke-opacity=".4"/><text x="178.5" y="194" text-anchor="middle" class="t">Eco</text></svg>
+<defs><filter id="bl" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="28"/></filter><clipPath id="c"><rect x="2" y="2" width="576" height="226" rx="22"/></clipPath>
+<linearGradient id="e" x1="0" x2="1"><stop offset="0" stop-color="#5d80e6"/><stop offset="1" stop-color="#d7d0ff"/></linearGradient></defs>
+<style>.h{font-family:'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif;font-weight:700;font-size:28px;fill:#11100f}.d{font-family:'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif;font-size:16px;fill:#55514b}.t{font-family:'SF Mono','Fira Code',Menlo,Consolas,monospace;font-size:12px;fill:#11100f}
+.bd{fill:none;stroke:url(#e);stroke-width:3;stroke-linecap:round;animation:l 6s linear infinite}@keyframes l{to{stroke-dashoffset:-1580}}
+.em{animation:f 3s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes f{50%{transform:translateY(-6px) rotate(-8deg)}}
+.dot{animation:p 1.5s infinite}@keyframes p{50%{opacity:.25}}
+.bb{animation:dr 9s ease-in-out infinite}@keyframes dr{50%{transform:translate(-40px,18px)}}</style>
+<rect x="2" y="2" width="576" height="226" rx="22" fill="#fffdf9"/>
+<g clip-path="url(#c)"><g filter="url(#bl)"><circle class="bb" cx="540" cy="20" r="80" fill="#d7d0ff"/><circle cx="40" cy="240" r="50" fill="#d7d0ff" fill-opacity=".5"/></g></g>
+<rect x="2" y="2" width="576" height="226" rx="22" fill="none" stroke="#11100f" stroke-opacity=".13" stroke-width="2"/>
+<rect class="bd" x="2" y="2" width="576" height="226" rx="22" pathLength="1580" stroke-dasharray="130 1450"/>
+<text x="34" y="66" class="h">EcoFlex</text><text x="500" y="68" font-size="36" class="em">♻️</text>
+<circle class="dot" cx="34" cy="86" r="0" fill="#3f9c5e"/>
+<text x="34" y="112" class="d">Sustainability project built with web tech.</text><rect x="34" y="178" width="51.2" height="28" rx="14" fill="#d7d0ff" fill-opacity=".6" stroke="#11100f" stroke-opacity=".15"/><text x="59.6" y="197" text-anchor="middle" class="t">CSS</text><rect x="95.2" y="178" width="51.2" height="28" rx="14" fill="#d7d0ff" fill-opacity=".6" stroke="#11100f" stroke-opacity=".15"/><text x="120.80000000000001" y="197" text-anchor="middle" class="t">Web</text><rect x="156.4" y="178" width="51.2" height="28" rx="14" fill="#d7d0ff" fill-opacity=".6" stroke="#11100f" stroke-opacity=".15"/><text x="182.0" y="197" text-anchor="middle" class="t">Eco</text></svg>
