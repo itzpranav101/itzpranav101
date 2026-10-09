@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 230" width="580" height="230">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1824"/><stop offset="1" stop-color="#0d2a26"/></linearGradient>
+<linearGradient id="e" x1="0" x2="1"><stop offset="0" stop-color="#5ff2b0"/><stop offset="1" stop-color="#4aa8ff"/></linearGradient></defs>
+<style>
+.h{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-weight:700;font-size:26px;fill:#fff} .d{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-size:15px;fill:#a9c7bb} .t{font-family:'SF Mono','Fira Code',Menlo,Consolas,monospace;font-size:12px;fill:#bff7dc}
+.bd{fill:none;stroke:url(#e);stroke-width:2.5;stroke-dasharray:90 700;animation:l 5s linear infinite}
+@keyframes l{to{stroke-dashoffset:-1580}}
+.em{animation:f 3s ease-in-out infinite;transform-box:fill-box;transform-origin:center} @keyframes f{50%{transform:translateY(-5px) rotate(-6deg)}}
+.dot{animation:p 1.5s infinite} @keyframes p{50%{opacity:.2}}
+</style>
+<rect x="2" y="2" width="576" height="226" rx="20" fill="url(#b)" stroke="#5ff2b0" stroke-opacity=".18" stroke-width="2"/>
+<rect class="bd" x="2" y="2" width="576" height="226" rx="20" pathLength="1580" stroke-dasharray="120 1460"/>
+<text x="34" y="62" class="h">Meco</text><text x="520" y="62" font-size="34" class="em">🧠</text>
+<circle class="dot" cx="470" cy="55" r="5" fill="#5ff2b0"/><text x="456" y="59" text-anchor="end" style="font-family:'SF Mono','Fira Code',Menlo,Consolas,monospace;font-size:12px;fill:#5ff2b0">active</text>
+<text x="34" y="108" class="d">Adaptive cognitive support for dementia. Gives the</text><text x="34" y="132" class="d">smallest useful cue, never does the task for you.</text><rect x="34" y="176" width="110.0" height="26" rx="13" fill="#5ff2b0" fill-opacity=".12" stroke="#5ff2b0" stroke-opacity=".4"/><text x="89.0" y="194" text-anchor="middle" class="t">JavaScript</text><rect x="154.0" y="176" width="101.39999999999999" height="26" rx="13" fill="#5ff2b0" fill-opacity=".12" stroke="#5ff2b0" stroke-opacity=".4"/><text x="204.7" y="194" text-anchor="middle" class="t">Zero deps</text><rect x="265.4" y="176" width="135.8" height="26" rx="13" fill="#5ff2b0" fill-opacity=".12" stroke="#5ff2b0" stroke-opacity=".4"/><text x="333.29999999999995" y="194" text-anchor="middle" class="t">Accessibility</text></svg>

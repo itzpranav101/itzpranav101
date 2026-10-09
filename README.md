@@ -1,94 +1,55 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c9a6b&height=220&section=header&text=Pranav%20Ramanathan&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Robots%20%C2%B7%20Software%20%C2%B7%20Student%20Builder%20%C2%B7%20Singapore&descAlignY=60&descSize=18" width="100%" alt="header"/>
-
-<a href="https://github.com/itzpranav101">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=2C9A6B&center=true&vCenter=true&width=640&lines=Hey%2C+I'm+Pranav+%F0%9F%91%8B;I+build+robots+%F0%9F%A4%96+and+seasonally+do+software;Building+Meco%2C+an+app+for+dementia+support+%F0%9F%A7%A0;Student+developer+based+in+Singapore+%F0%9F%87%B8%F0%9F%87%AC" alt="Typing SVG"/>
-</a>
+<img src="assets/hero.svg" width="100%" alt="Pranav Ramanathan: student developer, robots and software, Singapore"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=itzpranav101&style=for-the-badge&color=2c9a6b&label=PROFILE+VIEWS" alt="views"/>
-<a href="https://pranavr.me"><img src="https://img.shields.io/badge/Portfolio-pranavr.me-203a43?style=for-the-badge&logo=safari&logoColor=white" alt="portfolio"/></a>
-<img src="https://img.shields.io/badge/Singapore-%F0%9F%87%B8%F0%9F%87%AC-red?style=for-the-badge" alt="sg"/>
+<a href="https://pranavr.me"><img src="https://img.shields.io/badge/Portfolio-pranavr.me-0d3a2e?style=for-the-badge&logo=safari&logoColor=5ff2b0" alt="portfolio"/></a>
+<img src="https://img.shields.io/badge/Based_in-Singapore-0d3a2e?style=for-the-badge&logoColor=5ff2b0" alt="Singapore"/>
+<img src="https://komarev.com/ghpvc/?username=itzpranav101&style=for-the-badge&color=0d3a2e&label=PROFILE+VIEWS" alt="views"/>
+
+<img src="assets/counters.svg" width="100%" alt="26 repos, 2+ years, 5 languages, 2 mobile platforms"/>
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-## 🌱 About me
+## 👋 About me
 
-- 🤖 I spend most of my time on **robots**, and do **software** seasonally
-- 🧠 Building **Meco**, adaptive cognitive support that gives the *smallest useful cue* instead of doing the task for you
-- 🌿 Working on **ROOTED SG**, **LinguaBomb** (AI language tutor) and **EcoFlex**
-- 🎓 Student at GIIS, Singapore
+I'm a student developer in Singapore. Most of my time goes into **robots**, and I do **software** in seasons. The software I care about most helps people: tools for memory, learning and sustainability that stay out of the way.
+
+## 🚧 Currently building
+
+| | Project | What it is |
+|---|---|---|
+| 🧠 | **Meco** | Cognitive support for dementia that gives the *smallest useful cue* instead of doing the task for you |
+| 🌳 | **ROOTED SG** | Plant care and sustainability app, native on iOS and Android |
+| 💣 | **LinguaBomb** | AI language tutor, built with Team Bomb Island |
+| 🤖 | **Robotics** | Sensors, microcontrollers and BLE hardware (more soon) |
+
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🚀 Featured projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 [Meco](https://github.com/itzpranav101/meco-67-website-final)
-Adaptive cognitive support for dementia. No build step, zero runtime dependencies.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
-
-</td>
-<td width="50%" valign="top">
-
-### 💣 [LinguaBomb](https://github.com/itzpranav101/linguabomb)
-AI language tutor website by Team Bomb Island.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌳 [ROOTED SG](https://github.com/itzpranav101/rootedsg)
-Singapore plant and sustainability app (iOS and Android).
-
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### ♻️ [EcoFlex](https://github.com/itzpranav101/EcoFlex)
-Sustainability project built with web tech.
-
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-## 🛠️ Tech stack
-
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,swift,kotlin,python,cpp,arduino,nodejs,git,github,vercel,figma&theme=dark" alt="skills"/>
+<a href="https://github.com/itzpranav101/meco-67-website-final"><img src="assets/card-meco.svg" width="49%" alt="Meco"/></a>
+<a href="https://github.com/itzpranav101/linguabomb"><img src="assets/card-linguabomb.svg" width="49%" alt="LinguaBomb"/></a>
+<a href="https://github.com/itzpranav101/rootedsg"><img src="assets/card-rootedsg.svg" width="49%" alt="ROOTED SG"/></a>
+<a href="https://github.com/itzpranav101/EcoFlex"><img src="assets/card-ecoflex.svg" width="49%" alt="EcoFlex"/></a>
 </div>
 
-## 📊 GitHub stats
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## 🛠️ Toolbox
+
+<img src="assets/skills.svg" width="100%" alt="JavaScript, TypeScript, React, Swift, Kotlin, Python, C++, Arduino, Node.js, HTML, CSS, Git, Figma, Vercel, Robotics, Sensors, BLE"/>
+
+## 🗺️ Build timeline
+
+<img src="assets/timeline.svg" width="100%" alt="Timeline from Jan 2024 to Oct 2026"/>
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=itzpranav101&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzpranav101&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="langs"/>
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itzpranav101&theme=tokyonight&hide_border=true&background=0d1117" alt="streak"/>
-</div>
 
-## 🐍 Contribution snake
+<sub>Say hi: <a href="https://pranavr.me">pranavr.me</a> · <a href="https://github.com/itzpranav101?tab=repositories">all repositories</a></sub>
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itzpranav101/itzpranav101/output/github-snake-dark.svg"/>
-  <img alt="snake" src="https://raw.githubusercontent.com/itzpranav101/itzpranav101/output/github-snake.svg"/>
-</picture>
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c9a6b,100:0f2027&height=100&section=footer" width="100%" alt="footer"/>
 </div>

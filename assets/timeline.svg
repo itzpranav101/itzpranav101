@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300">
+<style>.d{font-family:'SF Mono','Fira Code',Menlo,Consolas,monospace;font-size:13px;fill:#5ff2b0}.t{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-weight:700;font-size:16px;fill:#fff}.s{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-size:13px;fill:#8fb2a4}
+.ln{stroke:#5ff2b0;stroke-width:3;stroke-linecap:round;stroke-dasharray:1100;stroke-dashoffset:1100;animation:dr 3s ease-out forwards}@keyframes dr{to{stroke-dashoffset:0}}
+.n{opacity:0;animation:fi .6s ease-out forwards}@keyframes fi{to{opacity:1}}
+.pl{transform-box:fill-box;transform-origin:center;animation:pp 2.4s ease-out infinite}@keyframes pp{from{transform:scale(1);opacity:.8}to{transform:scale(2.4);opacity:0}}</style>
+<line x1="60" y1="150" x2="1140" y2="150" stroke="#5ff2b0" stroke-opacity=".15" stroke-width="3"/><line class="ln" x1="60" y1="150" x2="1140" y2="150"/><g class="n" style="animation-delay:0.0s"><line x1="90.0" y1="150" x2="90.0" y2="105" stroke="#5ff2b0" stroke-opacity=".35"/>
+<circle cx="90.0" cy="150" r="9" fill="#07111c" stroke="#5ff2b0" stroke-width="3"/><circle class="pl" cx="90.0" cy="150" r="9" fill="none" stroke="#5ff2b0" style="animation-delay:0.0s"/>
+<text x="90.0" y="73" text-anchor="middle" class="d">Jan 2024</text>
+<text x="90.0" y="95" text-anchor="middle" class="t">Joined GitHub</text>
+<text x="90.0" y="113" text-anchor="middle" class="s">first web projects</text></g><g class="n" style="animation-delay:0.35s"><line x1="235.71428571428572" y1="150" x2="235.71428571428572" y2="207" stroke="#5ff2b0" stroke-opacity=".35"/>
+<circle cx="235.71428571428572" cy="150" r="9" fill="#07111c" stroke="#5ff2b0" stroke-width="3"/><circle class="pl" cx="235.71428571428572" cy="150" r="9" fill="none" stroke="#5ff2b0" style="animation-delay:0.35s"/>
+<text x="235.71428571428572" y="239" text-anchor="middle" class="d">Jan 2025</text>
+<text x="235.71428571428572" y="259" text-anchor="middle" class="t">CryptoEducation</text>
+<text x="235.71428571428572" y="277" text-anchor="middle" class="s">first Swift app</text></g><g class="n" style="animation-delay:0.7s"><line x1="381.42857142857144" y1="150" x2="381.42857142857144" y2="105" stroke="#5ff2b0" stroke-opacity=".35"/>
+<circle cx="381.42857142857144" cy="150" r="9" fill="#07111c" stroke="#5ff2b0" stroke-width="3"/><circle class="pl" cx="381.42857142857144" cy="150" r="9" fill="none" stroke="#5ff2b0" style="animation-delay:0.7s"/>
+<text x="381.42857142857144" y="73" text-anchor="middle" class="d">Jan 2026</text>
+<text x="381.42857142857144" y="95" text-anchor="middle" class="t">FinFlow Academy</text>
+<text x="381.42857142857144" y="113" text-anchor="middle" class="s">React + TypeScript</text></g><g class="n" style="animation-delay:1.0499999999999998s"><line x1="527.1428571428571" y1="150" x2="527.1428571428571" y2="207" stroke="#5ff2b0" stroke-opacity=".35"/>
+<circle cx="527.1428571428571" cy="150" r="9" fill="#07111c" stroke="#5ff2b0" stroke-width="3"/><circle class="pl" cx="527.1428571428571" cy="150" r="9" fill="none" stroke="#5ff2b0" style="animation-delay:1.0499999999999998s"/>
+<text x="527.1428571428571" y="239" text-anchor="middle" class="d">Mar 2026</text>
+<text x="527.1428571428571" y="259" text-anchor="middle" class="t">Chorefolio</text>
+<text x="527.1428571428571" y="277" text-anchor="middle" class="s">chores, gamified</text></g><g class="n" style="animation-delay:1.4s"><line x1="672.8571428571429" y1="150" x2="672.8571428571429" y2="105" stroke="#5ff2b0" stroke-opacity=".35"/>
+<circle cx="672.8571428571429" cy="150" r="9" fill="#07111c" stroke="#5ff2b0" stroke-width="3"/><circle class="pl" cx="672.8571428571429" cy="150" r="9" fill="none" stroke="#5ff2b0" style="animation-delay:1.4s"/>
+<text x="672.8571428571429" y="73" text-anchor="middle" class="d">May 2026</text>
+<text x="672.8571428571429" y="95" text-anchor="middle" class="t">Stavex</text>
+<text x="672.8571428571429" y="113" text-anchor="middle" class="s">startups for teens</text></g><g class="n" style="animation-delay:1.75s"><line x1="818.5714285714287" y1="150" x2="818.5714285714287" y2="207" stroke="#5ff2b0" stroke-opacity=".35"/>
+<circle cx="818.5714285714287" cy="150" r="9" fill="#07111c" stroke="#5ff2b0" stroke-width="3"/><circle class="pl" cx="818.5714285714287" cy="150" r="9" fill="none" stroke="#5ff2b0" style="animation-delay:1.75s"/>
+<text x="818.5714285714287" y="239" text-anchor="middle" class="d">Aug 2026</text>
+<text x="818.5714285714287" y="259" text-anchor="middle" class="t">Meco · EcoFlex</text>
+<text x="818.5714285714287" y="277" text-anchor="middle" class="s">dementia support</text></g><g class="n" style="animation-delay:2.0999999999999996s"><line x1="964.2857142857143" y1="150" x2="964.2857142857143" y2="105" stroke="#5ff2b0" stroke-opacity=".35"/>
+<circle cx="964.2857142857143" cy="150" r="9" fill="#07111c" stroke="#5ff2b0" stroke-width="3"/><circle class="pl" cx="964.2857142857143" cy="150" r="9" fill="none" stroke="#5ff2b0" style="animation-delay:2.0999999999999996s"/>
+<text x="964.2857142857143" y="73" text-anchor="middle" class="d">Sep 2026</text>
+<text x="964.2857142857143" y="95" text-anchor="middle" class="t">ROOTED SG</text>
+<text x="964.2857142857143" y="113" text-anchor="middle" class="s">iOS + Android</text></g><g class="n" style="animation-delay:2.4499999999999997s"><line x1="1110.0" y1="150" x2="1110.0" y2="207" stroke="#5ff2b0" stroke-opacity=".35"/>
+<circle cx="1110.0" cy="150" r="9" fill="#07111c" stroke="#5ff2b0" stroke-width="3"/><circle class="pl" cx="1110.0" cy="150" r="9" fill="none" stroke="#5ff2b0" style="animation-delay:2.4499999999999997s"/>
+<text x="1110.0" y="239" text-anchor="middle" class="d">Oct 2026</text>
+<text x="1110.0" y="259" text-anchor="middle" class="t">LinguaBomb</text>
+<text x="1110.0" y="277" text-anchor="middle" class="s">AI language tutor</text></g></svg>
