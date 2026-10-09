@@ -4,9 +4,9 @@
 
 <br/>
 
-<a href="https://pranavr.me"><img src="https://img.shields.io/badge/Portfolio-pranavr.me-0d3a2e?style=for-the-badge&logo=safari&logoColor=5ff2b0" alt="portfolio"/></a>
-<img src="https://img.shields.io/badge/Based_in-Singapore-0d3a2e?style=for-the-badge&logoColor=5ff2b0" alt="Singapore"/>
-<img src="https://komarev.com/ghpvc/?username=itzpranav101&style=for-the-badge&color=0d3a2e&label=PROFILE+VIEWS" alt="views"/>
+<a href="https://pranavr.me"><img src="https://img.shields.io/badge/Portfolio-pranavr.me-a8e6bb?style=for-the-badge&logo=safari&logoColor=11100f&labelColor=11100f" alt="portfolio"/></a>
+<img src="https://img.shields.io/badge/Based_in-Singapore-d7d0ff?style=for-the-badge&labelColor=11100f" alt="Singapore"/>
+<img src="https://komarev.com/ghpvc/?username=itzpranav101&style=for-the-badge&color=ffd6a3&label=PROFILE+VIEWS&labelColor=11100f" alt="views"/>
 
 <img src="assets/counters.svg" width="100%" alt="26 repos, 2+ years, 5 languages, 2 mobile platforms"/>
 
