@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" width="1200" height="230">
+<defs><clipPath id="pn"><rect width="1200" height="230" rx="24"/></clipPath><clipPath id="dg"><rect x="-2" y="0" width="20" height="30"/></clipPath></defs>
+<style>
+.sc{font-family:'SF Mono','Fira Code',Menlo,Consolas,monospace;font-size:26px;font-weight:700;fill:#11100f}.lb{font-family:'SF Mono','Fira Code',Menlo,Consolas,monospace;font-size:13px;fill:#7e7973;letter-spacing:.14em}
+.hint{font-family:'Iowan Old Style','Palatino Linotype',Palatino,Georgia,serif;font-size:15px;fill:#7e7973;font-style:italic}
+.mv{animation:mv 6s linear infinite}@keyframes mv{from{transform:translateX(1250px)}to{transform:translateX(-100px)}}
+.coin{animation:mv 6s linear infinite,fd 6s linear infinite}
+@keyframes fd{0%,81%{opacity:1}82%,99.9%{opacity:0}100%{opacity:1}}
+.h1{animation:hm 3.2s linear infinite}.h2{animation:hm 7.5s linear infinite}@keyframes hm{to{transform:translateX(-144px)}}
+.cl{animation:cd 22s linear infinite}@keyframes cd{from{transform:translateX(-120px)}to{transform:translateX(1260px)}}
+.gr{animation:gm .5s linear infinite}@keyframes gm{to{stroke-dashoffset:-48}}
+.jump{animation:jp 6s infinite}
+@keyframes jp{0%,26.6%{transform:translateY(0);animation-timing-function:cubic-bezier(.3,.7,.4,1)}33.3%{transform:translateY(-84px);animation-timing-function:cubic-bezier(.6,0,.7,.3)}40%,60%{transform:translateY(0);animation-timing-function:cubic-bezier(.3,.7,.4,1)}66.7%{transform:translateY(-84px);animation-timing-function:cubic-bezier(.6,0,.7,.3)}73.3%,100%{transform:translateY(0)}}
+.sq{animation:sq 6s infinite;transform-box:fill-box;transform-origin:50% 100%}
+@keyframes sq{0%,24%{transform:scale(1,1)}26.6%{transform:scale(1.15,.82)}29%,38%{transform:scale(.9,1.12)}40.5%{transform:scale(1.15,.82)}43%,57.5%{transform:scale(1,1)}60%{transform:scale(1.15,.82)}63%,71%{transform:scale(.9,1.12)}73.5%{transform:scale(1.15,.82)}76%,100%{transform:scale(1,1)}}
+.l1{transform-box:fill-box;transform-origin:50% 0;animation:lg .36s ease-in-out infinite alternate}.l2{transform-box:fill-box;transform-origin:50% 0;animation:lg .36s ease-in-out infinite alternate-reverse}
+@keyframes lg{from{transform:rotate(-32deg)}to{transform:rotate(32deg)}}
+.u{animation:u 6s steps(10) infinite}@keyframes u{to{transform:translateY(-300px)}}
+.t{animation:u 60s steps(10) infinite}
+.blink{transform-box:fill-box;transform-origin:center;animation:bl 3s infinite}@keyframes bl{0%,92%,100%{transform:scaleY(1)}95%{transform:scaleY(.1)}}
+</style>
+<g clip-path="url(#pn)">
+<rect width="1200" height="230" fill="#f7f4ef"/>
+<rect width="1200" height="170" fill="#aee2f4" fill-opacity=".45"/>
+<circle cx="1090" cy="52" r="28" fill="#ffe67b"/>
+<g class="cl"><ellipse cx="0" cy="50" rx="36" ry="13" fill="#fffdf9"/><ellipse cx="22" cy="42" rx="22" ry="14" fill="#fffdf9"/></g>
+<g class="cl" style="animation-delay:-11s"><ellipse cx="0" cy="88" rx="28" ry="10" fill="#fffdf9" fill-opacity=".9"/><ellipse cx="18" cy="82" rx="16" ry="11" fill="#fffdf9" fill-opacity=".9"/></g>
+<g class="h2"><path d="M0 128 q36 -40 72 0 t72 0 t72 0 t72 0 t72 0 t72 0 t72 0 t72 0 t72 0 t72 0 t72 0 t72 0 t72 0 t72 0 t72 0 t72 0 t72 0 t72 0 t72 0 t72 0 V170 H0Z" fill="#d7d0ff" fill-opacity=".75"/></g>
+<g class="h1"><path d="M0 152 q36 -28 72 0 t72 0 t72 0 t72 0 t72 0 t72 0 t72 0 t72 0 t72 0 t72 0 t72 0 t72 0 t72 0 t72 0 t72 0 t72 0 t72 0 t72 0 t72 0 t72 0 V170 H0Z" fill="#a8e6bb" fill-opacity=".8"/></g>
+<rect y="170" width="1200" height="60" fill="#ebe6dc"/><rect y="167" width="1200" height="6" fill="#11100f" fill-opacity=".16"/>
+<line class="gr" x1="-60" y1="198" x2="1300" y2="198" stroke="#11100f" stroke-opacity=".18" stroke-width="3" stroke-dasharray="14 34" stroke-linecap="round"/>
+<line class="gr" style="animation-duration:.9s" x1="-60" y1="216" x2="1300" y2="216" stroke="#11100f" stroke-opacity=".1" stroke-width="3" stroke-dasharray="8 60" stroke-linecap="round"/>
+<g class="mv" style="animation-delay:-2.956s"><g transform="translate(0 170)"><path d="M15 0V-34" stroke="#11100f" stroke-width="12" stroke-linecap="round"/><path d="M15 0V-34" stroke="#3f9c5e" stroke-width="6" stroke-linecap="round"/><path d="M15 -12 q-14 0 -14 -14" stroke="#11100f" stroke-width="10" fill="none" stroke-linecap="round"/><path d="M15 -12 q-14 0 -14 -14" stroke="#3f9c5e" stroke-width="4" fill="none" stroke-linecap="round"/><path d="M15 -18 q14 0 14 -14" stroke="#11100f" stroke-width="10" fill="none" stroke-linecap="round"/><path d="M15 -18 q14 0 14 -14" stroke="#3f9c5e" stroke-width="4" fill="none" stroke-linecap="round"/><circle cx="15" cy="-40" r="6" fill="#ff9d8a" stroke="#11100f" stroke-width="3"/></g></g><g class="mv" style="animation-delay:-0.956s"><g transform="translate(0 170)"><path d="M15 0V-34" stroke="#11100f" stroke-width="12" stroke-linecap="round"/><path d="M15 0V-34" stroke="#3f9c5e" stroke-width="6" stroke-linecap="round"/><path d="M15 -12 q-14 0 -14 -14" stroke="#11100f" stroke-width="10" fill="none" stroke-linecap="round"/><path d="M15 -12 q-14 0 -14 -14" stroke="#3f9c5e" stroke-width="4" fill="none" stroke-linecap="round"/><path d="M15 -18 q14 0 14 -14" stroke="#11100f" stroke-width="10" fill="none" stroke-linecap="round"/><path d="M15 -18 q14 0 14 -14" stroke="#3f9c5e" stroke-width="4" fill="none" stroke-linecap="round"/><circle cx="15" cy="-40" r="6" fill="#ff9d8a" stroke="#11100f" stroke-width="3"/></g></g><g class="coin" style="animation-delay:-2.889s"><g transform="translate(0 70)"><circle r="13" fill="#ffe67b" stroke="#11100f" stroke-width="3.5"/><circle r="6.5" fill="none" stroke="#11100f" stroke-opacity=".35" stroke-width="2.5"/></g></g><g class="coin" style="animation-delay:-0.889s"><g transform="translate(0 70)"><circle r="13" fill="#ffe67b" stroke="#11100f" stroke-width="3.5"/><circle r="6.5" fill="none" stroke="#11100f" stroke-opacity=".35" stroke-width="2.5"/></g></g><g class="coin" style="animation-delay:-4.389s"><g transform="translate(0 148)"><circle r="13" fill="#ffe67b" stroke="#11100f" stroke-width="3.5"/><circle r="6.5" fill="none" stroke="#11100f" stroke-opacity=".35" stroke-width="2.5"/></g></g><g class="coin" style="animation-delay:-1.889s"><g transform="translate(0 148)"><circle r="13" fill="#ffe67b" stroke="#11100f" stroke-width="3.5"/><circle r="6.5" fill="none" stroke="#11100f" stroke-opacity=".35" stroke-width="2.5"/></g></g><g class="coin" style="animation-delay:-5.689s"><g transform="translate(0 148)"><circle r="13" fill="#ffe67b" stroke="#11100f" stroke-width="3.5"/><circle r="6.5" fill="none" stroke="#11100f" stroke-opacity=".35" stroke-width="2.5"/></g></g>
+<g transform="translate(150 170)"><g class="jump">
+<ellipse cx="0" cy="0" rx="22" ry="4" fill="#11100f" fill-opacity=".12"/>
+<g transform="translate(0 -7)"><rect class="l1" x="-11" y="0" width="8" height="12" rx="4" fill="#11100f"/><rect class="l2" x="3" y="0" width="8" height="12" rx="4" fill="#11100f"/></g>
+<g class="sq"><path d="M-20 -8 q-4 -34 20 -34 q24 0 20 34z" fill="#a8e6bb" stroke="#11100f" stroke-width="4" stroke-linejoin="round"/>
+<path d="M-6 -42 q-2 -12 6 -14 M4 -42 q4 -10 12 -10" stroke="#11100f" stroke-width="4" fill="none" stroke-linecap="round"/>
+<ellipse cx="-9" cy="-20" rx="4" ry="3" fill="#ffd6a3"/><ellipse cx="9" cy="-20" rx="4" ry="3" fill="#ffd6a3"/>
+<ellipse class="blink" cx="-6" cy="-27" rx="2.8" ry="4" fill="#11100f"/><ellipse class="blink" cx="6" cy="-27" rx="2.8" ry="4" fill="#11100f"/>
+<path d="M-3 -19 q3 3 6 0" stroke="#11100f" stroke-width="2.5" fill="none" stroke-linecap="round"/></g>
+</g></g>
+<text x="36" y="38" class="lb">SCORE</text>
+<g transform="translate(118 14)"><g clip-path="url(#dg)"><g class="t"><text x="0" y="23" class="sc">0</text><text x="0" y="53" class="sc">1</text><text x="0" y="83" class="sc">2</text><text x="0" y="113" class="sc">3</text><text x="0" y="143" class="sc">4</text><text x="0" y="173" class="sc">5</text><text x="0" y="203" class="sc">6</text><text x="0" y="233" class="sc">7</text><text x="0" y="263" class="sc">8</text><text x="0" y="293" class="sc">9</text></g></g></g><g transform="translate(136 14)"><g clip-path="url(#dg)"><g class="u"><text x="0" y="23" class="sc">0</text><text x="0" y="53" class="sc">1</text><text x="0" y="83" class="sc">2</text><text x="0" y="113" class="sc">3</text><text x="0" y="143" class="sc">4</text><text x="0" y="173" class="sc">5</text><text x="0" y="203" class="sc">6</text><text x="0" y="233" class="sc">7</text><text x="0" y="263" class="sc">8</text><text x="0" y="293" class="sc">9</text></g></g></g><text x="156" y="38" class="sc">0</text>
+<text x="1164" y="38" text-anchor="end" class="hint">it plays itself</text>
+</g><rect x="1" y="1" width="1198" height="228" rx="24" fill="none" stroke="#11100f" stroke-opacity=".12" stroke-width="2"/></svg>
