@@ -29,7 +29,7 @@
 <text x="70" y="98" class="hi">&gt; hello, world <tspan class="cur">▌</tspan></text>
 <text x="66" y="176" class="name">Pranav Ramanathan</text>
 <text x="70" y="236" class="sub s0">Student developer · Singapore 🇸🇬</text><text x="70" y="236" class="sub s1">I build robots that move 🤖</text><text x="70" y="236" class="sub s2">…and software that helps people 🧠</text><text x="70" y="236" class="sub s3">Shipping Meco, LinguaBomb and ROOTED SG</text>
-<g transform="translate(905 22)"><g class="bot">
+<g transform="translate(932 16) scale(.86)"><g class="bot">
 <circle class="ping" cx="150" cy="150" r="120" fill="none" stroke="#5d80e6" stroke-width="3"/><circle class="ping" style="animation-delay:1.3s" cx="150" cy="150" r="120" fill="none" stroke="#5d80e6" stroke-width="3"/>
 <clipPath id="ph"><rect x="25" y="25" width="250" height="250" rx="36"/></clipPath>
 <rect x="19" y="21" width="262" height="262" rx="40" fill="#11100f" fill-opacity=".10"/>
