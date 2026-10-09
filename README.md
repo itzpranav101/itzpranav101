@@ -40,6 +40,12 @@ I'm a student developer in Singapore. Most of my time goes into **robots**, and 
 
 <img src="v6/divider.svg" width="100%" alt=""/>
 
+## 🎮 Auto-runner
+
+<img src="v6/game.svg" width="100%" alt="A tiny creature jumping over plants and collecting coins by itself"/>
+
+<img src="v6/divider.svg" width="100%" alt=""/>
+
 ## 🛠️ Toolbox
 
 <img src="v6/skills.svg" width="100%" alt="JavaScript, TypeScript, React, Swift, Kotlin, Python, C++, Arduino, Node.js, HTML, CSS, Git, Figma, Vercel, Robotics, Sensors, BLE"/>
