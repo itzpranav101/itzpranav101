@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="a3/hero.svg" width="100%" alt="Pranav Ramanathan: student developer, robots and software, Singapore"/>
+<img src="pastel/hero.svg" width="100%" alt="Pranav Ramanathan: student developer, robots and software, Singapore"/>
 
 <br/>
 
@@ -8,11 +8,11 @@
 <img src="https://img.shields.io/badge/Based_in-Singapore-d7d0ff?style=for-the-badge&labelColor=11100f" alt="Singapore"/>
 <img src="https://komarev.com/ghpvc/?username=itzpranav101&style=for-the-badge&color=ffd6a3&label=PROFILE+VIEWS&labelColor=11100f" alt="views"/>
 
-<img src="a3/counters.svg" width="100%" alt="26 repos, 2+ years, 5 languages, 2 mobile platforms"/>
+<img src="pastel/counters.svg" width="100%" alt="26 repos, 2+ years, 5 languages, 2 mobile platforms"/>
 
 </div>
 
-<img src="a3/divider.svg" width="100%" alt=""/>
+<img src="pastel/divider.svg" width="100%" alt=""/>
 
 ## 👋 About me
 
@@ -27,26 +27,26 @@ I'm a student developer in Singapore. Most of my time goes into **robots**, and 
 | 💣 | **LinguaBomb** | AI language tutor, built with Team Bomb Island |
 | 🤖 | **Robotics** | Sensors, microcontrollers and BLE hardware (more soon) |
 
-<img src="a3/divider.svg" width="100%" alt=""/>
+<img src="pastel/divider.svg" width="100%" alt=""/>
 
 ## 🚀 Featured projects
 
 <div align="center">
-<a href="https://github.com/itzpranav101/meco-67-website-final"><img src="a3/card-meco.svg" width="49%" alt="Meco"/></a>
-<a href="https://github.com/itzpranav101/linguabomb"><img src="a3/card-linguabomb.svg" width="49%" alt="LinguaBomb"/></a>
-<a href="https://github.com/itzpranav101/rootedsg"><img src="a3/card-rootedsg.svg" width="49%" alt="ROOTED SG"/></a>
-<a href="https://github.com/itzpranav101/EcoFlex"><img src="a3/card-ecoflex.svg" width="49%" alt="EcoFlex"/></a>
+<a href="https://github.com/itzpranav101/meco-67-website-final"><img src="pastel/card-meco.svg" width="49%" alt="Meco"/></a>
+<a href="https://github.com/itzpranav101/linguabomb"><img src="pastel/card-linguabomb.svg" width="49%" alt="LinguaBomb"/></a>
+<a href="https://github.com/itzpranav101/rootedsg"><img src="pastel/card-rootedsg.svg" width="49%" alt="ROOTED SG"/></a>
+<a href="https://github.com/itzpranav101/EcoFlex"><img src="pastel/card-ecoflex.svg" width="49%" alt="EcoFlex"/></a>
 </div>
 
-<img src="a3/divider.svg" width="100%" alt=""/>
+<img src="pastel/divider.svg" width="100%" alt=""/>
 
 ## 🛠️ Toolbox
 
-<img src="a3/skills.svg" width="100%" alt="JavaScript, TypeScript, React, Swift, Kotlin, Python, C++, Arduino, Node.js, HTML, CSS, Git, Figma, Vercel, Robotics, Sensors, BLE"/>
+<img src="pastel/skills.svg" width="100%" alt="JavaScript, TypeScript, React, Swift, Kotlin, Python, C++, Arduino, Node.js, HTML, CSS, Git, Figma, Vercel, Robotics, Sensors, BLE"/>
 
 ## 🗺️ Build timeline
 
-<img src="a3/timeline.svg" width="100%" alt="Timeline from Jan 2024 to Oct 2026"/>
+<img src="pastel/timeline.svg" width="100%" alt="Timeline from Jan 2024 to Oct 2026"/>
 
 <div align="center">
 
