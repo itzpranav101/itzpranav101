@@ -37,13 +37,13 @@
 <text x="70" y="232" class="sub s2">…and software that helps people 🧠</text>
 <text x="70" y="232" class="sub s3">Currently shipping Meco, LinguaBomb, ROOTED SG</text>
 
-<g class="bot" transform="translate(930 70)">
+<g transform="translate(930 70)"><g class="bot">
 <line x1="100" y1="0" x2="100" y2="34" stroke="#5ff2b0" stroke-width="4"/><circle class="ant" cx="100" cy="-4" r="9" fill="#5ff2b0"/>
 <rect x="10" y="34" width="180" height="150" rx="34" fill="#0a1a26" stroke="#5ff2b0" stroke-width="4"/>
 <rect x="-6" y="85" width="16" height="44" rx="6" fill="#5ff2b0"/><rect x="190" y="85" width="16" height="44" rx="6" fill="#5ff2b0"/>
 <rect class="eye" x="48" y="76" width="30" height="40" rx="12" fill="#5ff2b0"/><rect class="eye" x="122" y="76" width="30" height="40" rx="12" fill="#5ff2b0"/>
 <path d="M70 150 Q100 170 130 150" stroke="#5ff2b0" stroke-width="5" fill="none" stroke-linecap="round"/>
 <rect x="60" y="184" width="80" height="22" rx="6" fill="#0a1a26" stroke="#5ff2b0" stroke-width="3"/>
-</g>
+</g></g>
 <g class="gear" opacity=".5"><circle cx="1130" cy="290" r="26" fill="none" stroke="#5ff2b0" stroke-width="6" stroke-dasharray="8 6"/><circle cx="1130" cy="290" r="9" fill="#5ff2b0"/></g>
 </g></svg>
