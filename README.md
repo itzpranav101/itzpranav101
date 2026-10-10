@@ -40,9 +40,9 @@ I'm a student developer in Singapore. Most of my time goes into **robots**, and 
 
 <img src="v7/divider.svg" width="100%" alt=""/>
 
-## 🎮 Auto-runner
+## ⚙️ Chain reaction
 
-<img src="v7/game.svg" width="100%" alt="A tiny creature jumping over plants and collecting coins by itself"/>
+<img src="v7/rube.svg" width="100%" alt="An animated Rube Goldberg machine: a claw drops a ball that triggers a seesaw, a pulley, dominoes and finally lights a bulb"/>
 
 <img src="v7/divider.svg" width="100%" alt=""/>
 
